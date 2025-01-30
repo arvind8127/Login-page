@@ -1,8 +1,11 @@
+
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 
 body{
-  background-color:rgb(77, 28, 85)
+  background-color:rgb(175, 165, 165)
 }
